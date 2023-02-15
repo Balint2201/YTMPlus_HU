@@ -2,8 +2,8 @@
 // @name         ytmPlus
 // @namespace    http://tampermonkey.net/
 // @version      1.8.0
-// @updateURL    https://github.com/RealMarioD/ytmplus/raw/main/ytmplus.user.js
-// @downloadURL  https://github.com/RealMarioD/ytmplus/raw/main/ytmplus.user.js
+// @updateURL    https://github.com/Balint2201/YTMPlus_HU/raw/main/ytmplus.hun.user.js
+// @downloadURL  https://github.com/Balint2201/YTMPlus_HU/raw/main/ytmplus.hun.user.js
 // @description  Szerettél volna már néhány szép kiegészítőt a YouTube Musichoz? Ha igen, akkor jó helyen jársz.
 // @author       Mario_D#7052
 // @match        https://music.youtube.com/*
