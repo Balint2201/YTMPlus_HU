@@ -2,7 +2,7 @@
 Szerettél volna már néhány szép kiegészítőt a YouTube Musichoz? Ha igen, akkor jó helyen jársz.
 ## Hogyan telepítsd:
 1. Töltse le és telepítse a [Tampermonkey](https://www.tampermonkey.net) vagy a [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey) alkalmazást, attól függően, hogy milyen böngészővel rendelkezik. (Firefoxon kicsit megszakadt a szkript, de ez egy WIP, elnézést!)
-2. [Click here to install the script!](https://github.com/RealMarioD/ytmplus/raw/main/ytmplus.user.js)
+2. [Kattints ide a script telepítéséhez!](https://github.com/Balint2201/YTMPlus_HUN/blob/main/ytmplus.hun.user.js)
 ## Mi az a YTMPlus?
 A szkript eredetileg egy egyszerű háttérváltóként indult, amely mára többféle vizuális testreszabást kínál a https://music.youtube.com számára.
 ## A testreszabások a következőket tartalmazzák:
@@ -21,7 +21,7 @@ A beállításokat a bal felső sarokban lévő fogaskerékre kattintva vagy a *
 ## Discord
 Ha hibákat találsz, ötleteid vannak, vagy csak szeretnél megvitatni a szkriptet, bátran [csatlakozz az ytmPlus Discord szerverhez!](https://discord.gg/68Waxa4Qxz) (csak angol nyelven)
 
-## Eredeti vertió
+## Eredeti verzió
 Az eredeti verziót [RealMarioD](github.com/RealMarioD) készítette amit [ide kattintva érhetsz el!](github.com/RealMarioD/ytmPlus)
 
 ## Képernyőfotók (az eredeti angol nyelvű változatról):
